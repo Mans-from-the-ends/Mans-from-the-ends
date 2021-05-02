@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mans-from-the-ends!
+- 👀 I’m interested in programming!
+- 🌱 I’m currently learning RUST
